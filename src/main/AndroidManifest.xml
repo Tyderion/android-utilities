@@ -1,9 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ch.isageek.tyderion.awesomecheckedstuff.checked" >
-
-    <application
-        android:allowBackup="true" >
-    </application>
-
-</manifest>
+<manifest package="ch.isageek.tyderion.utilities" />
