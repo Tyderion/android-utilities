@@ -29,3 +29,4 @@ public class CheckableTextView extends TextView implements Checkable {
         setChecked(!isChecked());
     }
 }
+
